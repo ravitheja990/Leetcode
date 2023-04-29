@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Find a Corresponding Node of a Binary Tree in a Clone of That Tree 1379/Find a Corresponding Node of a Binary Tree in a Clone of That Tree 1379.iml" filepath="$PROJECT_DIR$/Find a Corresponding Node of a Binary Tree in a Clone of That Tree 1379/Find a Corresponding Node of a Binary Tree in a Clone of That Tree 1379.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Range Sum of BST/Range Sum of BST.iml" filepath="$PROJECT_DIR$/Range Sum of BST/Range Sum of BST.iml" />
     </modules>
   </component>
 </project>
