@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Evaluate Boolean Binary Tree/Evaluate Boolean Binary Tree.iml" filepath="$PROJECT_DIR$/Evaluate Boolean Binary Tree/Evaluate Boolean Binary Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Find a Corresponding Node of a Binary Tree in a Clone of That Tree 1379/Find a Corresponding Node of a Binary Tree in a Clone of That Tree 1379.iml" filepath="$PROJECT_DIR$/Find a Corresponding Node of a Binary Tree in a Clone of That Tree 1379/Find a Corresponding Node of a Binary Tree in a Clone of That Tree 1379.iml" />
       <module fileurl="file://$PROJECT_DIR$/Increasing Order Search Tree/Increasing Order Search Tree.iml" filepath="$PROJECT_DIR$/Increasing Order Search Tree/Increasing Order Search Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode.iml" />
