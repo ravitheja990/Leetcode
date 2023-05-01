@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Average_of_Levels_in_Binary_Tree/Average_of_Levels_in_Binary_Tree.iml" filepath="$PROJECT_DIR$/Average_of_Levels_in_Binary_Tree/Average_of_Levels_in_Binary_Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary Tree Inorder Traversal/Binary Tree Inorder Traversal.iml" filepath="$PROJECT_DIR$/Binary Tree Inorder Traversal/Binary Tree Inorder Traversal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Evaluate Boolean Binary Tree/Evaluate Boolean Binary Tree.iml" filepath="$PROJECT_DIR$/Evaluate Boolean Binary Tree/Evaluate Boolean Binary Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Find a Corresponding Node of a Binary Tree in a Clone of That Tree 1379/Find a Corresponding Node of a Binary Tree in a Clone of That Tree 1379.iml" filepath="$PROJECT_DIR$/Find a Corresponding Node of a Binary Tree in a Clone of That Tree 1379/Find a Corresponding Node of a Binary Tree in a Clone of That Tree 1379.iml" />
