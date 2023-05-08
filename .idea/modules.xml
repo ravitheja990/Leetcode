@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Average_of_Levels_in_Binary_Tree/Average_of_Levels_in_Binary_Tree.iml" filepath="$PROJECT_DIR$/Average_of_Levels_in_Binary_Tree/Average_of_Levels_in_Binary_Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary Tree Inorder Traversal/Binary Tree Inorder Traversal.iml" filepath="$PROJECT_DIR$/Binary Tree Inorder Traversal/Binary Tree Inorder Traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary_Search/Binary_Search.iml" filepath="$PROJECT_DIR$/Binary_Search/Binary_Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary_Tree_Paths/Binary_Tree_Paths.iml" filepath="$PROJECT_DIR$/Binary_Tree_Paths/Binary_Tree_Paths.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary_Tree_Postorder_Traversal/Binary_Tree_Postorder_Traversal.iml" filepath="$PROJECT_DIR$/Binary_Tree_Postorder_Traversal/Binary_Tree_Postorder_Traversal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary_Tree_Preorder_Traversal/Binary_Tree_Preorder_Traversal.iml" filepath="$PROJECT_DIR$/Binary_Tree_Preorder_Traversal/Binary_Tree_Preorder_Traversal.iml" />
