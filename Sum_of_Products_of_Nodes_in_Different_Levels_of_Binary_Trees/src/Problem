@@ -1,0 +1,40 @@
+The problem of "Sum of Products of Nodes in Different Levels of Binary Trees" involves calculating the sum of products of node pairs in two binary trees where the nodes are not at the same level. In other words, the product of nodes that are at the same level should be excluded from the calculation.
+
+To understand the problem, let's consider the following example:
+
+markdown
+
+Binary Tree 1:
+          1
+        /   \
+       2     3
+      / \   / \
+     4   5 6   7
+
+Binary Tree 2:
+           9
+         /   \
+        8     7
+       / \   / \
+      6   5 4   3
+
+In this example, we have two binary trees with the same shape and number of nodes,
+but with different values assigned to each node. The nodes in each tree are labeled with integers.
+
+To compute the sum of products of pairs of nodes in the two trees where the nodes are not at the same level,
+we start by comparing the root nodes of both trees. Since the root nodes are at level 0, we do not include them in the calculation.
+
+Next, we compare the left child of the root node in Tree 1 (node with value 2) with the right child of the root
+node in Tree 2 (node with value 7). Since these nodes are at level 1, we include their product in the sum.
+
+We then compare the right child of the root node in Tree 1 (node with value 3) with the left child of the root
+node in Tree 2 (node with value 8). Again, these nodes are at level 1, so we include their product in the sum.
+
+Next, we compare the left child of the left child of the root node in Tree 1 (node with value 4) with the right child
+of the right child of the root node in Tree 2 (node with value 3). These nodes are at level 2, so we exclude their product from the sum.
+
+We continue this process for all nodes in the two trees that are not at the same level.
+Finally, we sum up all the products and return the result.
+
+In this example, the sum of products of pairs of nodes where the nodes are not at the same level
+is 2x7 + 3x8 + 5x4 + 6x5 + 7x6 + 9x1 = 84.
