@@ -11,7 +11,7 @@ public class Main {
         TreeNode node9 = new TreeNode(1);
         TreeNode node10 = new TreeNode(4);
         TreeNode node11 = new TreeNode(5);
-        
+
         node1.left = node2;
         node1.right = node3;
         node2.left = node4;
@@ -25,8 +25,5 @@ public class Main {
 
         Solution solution = new Solution();
         System.out.println("sum of all nodes with even valued grandparent is :: " + solution.sumEvenGrandparent(node1));
-
-
-
     }
 }
