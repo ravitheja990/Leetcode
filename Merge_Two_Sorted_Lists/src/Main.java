@@ -16,7 +16,7 @@ public class Main {
 
         Solution solution = new Solution();
         ListNode outputNode = solution.mergeTwoLists(list1Node1, list2Node1);
-        
+
         while(outputNode != null) {
             System.out.println("outputNode val is :: " + outputNode.val);
             outputNode = outputNode.next;
